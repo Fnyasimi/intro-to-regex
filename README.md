@@ -39,6 +39,8 @@ excellent [regular-expressions.info](http://www.regular-expressions.info).
 5. [Capture Groups](./5-capture-groups.md)
 6. [Alternative Matching](./6-alternative-matching.md)
 7. [Links & Recommended Reading](./7-links.md)
+8. [Solutions](./8-solutions.md)
+9. [Cheats sheet](./cheat-sheet.pdf)
 
 #### Files
 
@@ -46,7 +48,7 @@ Download a ZIP of all of the exercise files [here](http://bit.ly/2nqtWc4).
 
 #### History
 
-These materials were initially developed by Toby Hodges,Markus Fritz,
-Supriya Khedkar and Mike L Smith and have been adapted from [regex-novice-biology](https://tobyhodges.github.io/regex-novice-biology/) 
-.The have been modified by Festus Nyasimi to suit the training.
+These materials were initially developed by Toby Hodges, Markus Fritz,
+Supriya Khedkar and Mike L Smith and have been adapted from [regex-novice-biology](https://tobyhodges.github.io/regex-novice-biology/). 
+The have been modified by [Festus Nyasimi](https://github.com/Fnyasimi) to suit the training.
 
